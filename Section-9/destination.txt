@@ -1,0 +1,4 @@
+This is a destination file
+This is a destination file
+This is a source file
+Here is a source

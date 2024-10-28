@@ -1,0 +1,7 @@
+This is log.txt
+
+This is a log message.
+
+This is a log message.
+
+This is a log message.

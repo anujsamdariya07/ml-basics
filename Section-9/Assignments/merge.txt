@@ -1,0 +1,12 @@
+This is documents.txt
+All the the relevant documents are stored here.
+Please check them carefullyHello
+Thank You!
+Your welcome
+This is log.txt
+
+This is a log message.
+
+This is a log message.
+
+This is a log message.
